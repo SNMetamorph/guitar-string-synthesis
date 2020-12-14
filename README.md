@@ -11,3 +11,4 @@ TODO
 # Third-party depedencies
 [SFML](https://www.sfml-dev.org/index.php)<br>
 [ImGui](https://github.com/ocornut/imgui)<br>
+[ImGui-SFML](https://github.com/eliasdaler/imgui-sfml)<br>
