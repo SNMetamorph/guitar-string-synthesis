@@ -4,9 +4,7 @@ Uses SFML for real-time sound output and ImGui for user interface.<br>
 Supports to pluck notes using keyboard (all keys in same row with `Q` and `2` keys)
 
 # Images
-TODO
-# Video demonstation
-TODO
+![Demo](https://i.imgur.com/Vv9cSIJ.png)
 
 # Third-party depedencies
 [SFML](https://www.sfml-dev.org/index.php)<br>
